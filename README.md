@@ -1,2 +1,3 @@
 # macsoft
 Macsoft this Project are developed using Python Like Mini OS like @Nixon
+Give Me Short time i give the  full deatils of what i use in this Project before the start coding in python to must install in cmd prompt install Some Packages......
